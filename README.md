@@ -1,4 +1,4 @@
-# Project-Class-Bigdata-BART-Ridership-
+![received_983882043605992](https://github.com/user-attachments/assets/457bbff9-c866-4e22-a4ce-0bcf824b3843)# Project-Class-Bigdata-BART-Ridership-
 Link https://www.kaggle.com/datasets/mrgeislinger/bart-ridership/data
 
 วัตถุประสงค์
@@ -11,4 +11,9 @@ Link https://www.kaggle.com/datasets/mrgeislinger/bart-ridership/data
 - Hourly & Weekly Pattern Changes
 - Route Impact
 
-  
+
+Before During After COVID
+
+เปรียบเทียบจำนวนเที่ยวเดินรถหรือการใช้งานของระบบในช่วงก่อนโควิด (2018), ระหว่างโควิด (2019-2021), และหลังโควิด (2021-2022)
+
+
