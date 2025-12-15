@@ -1,4 +1,4 @@
-![received_983882043605992](https://github.com/user-attachments/assets/457bbff9-c866-4e22-a4ce-0bcf824b3843)# Project-Class-Bigdata-BART-Ridership-
+# Project-Class-Bigdata-BART-Ridership-
 Link https://www.kaggle.com/datasets/mrgeislinger/bart-ridership/data
 
 วัตถุประสงค์
