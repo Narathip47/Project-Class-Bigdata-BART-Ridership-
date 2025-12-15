@@ -2,7 +2,7 @@
 Link https://www.kaggle.com/datasets/mrgeislinger/bart-ridership/data
 
 วัตถุประสงค์
-- วิเคราะห์ผลกระทบจาก COVID-19 ต่ออัตราการใช้งานรถไฟฟ้า
+- วิเคราะห์ผลกระทบจาก COVID-19 ต่ออัตราการใช้งานระบบขนส่งมวลชนด่วนเบย์แอเรีย (BART)
 
 หัวข้อหลักในการวิเคราะห์
 - Before During After COVID
