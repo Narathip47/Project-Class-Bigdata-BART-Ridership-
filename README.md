@@ -1,3 +1,14 @@
 # Project-Class-Bigdata-BART-Ridership-
 Link https://www.kaggle.com/datasets/mrgeislinger/bart-ridership/data
-Present https://www.canva.com/design/DAG2jHKiB68/NzvtVjEqrlNf2xOP-i5NEw/edit
+
+วัตถุประสงค์
+- วิเคราะห์ผลกระทบจาก COVID-19 ต่ออัตราการใช้งานรถไฟฟ้า
+
+หัวข้อหลักในการวิเคราะห์
+- Before During After COVID
+- Drop percentage Analysis
+- Recovery Analysis
+- Hourly & Weekly Pattern Changes
+- Route Impact
+
+  
