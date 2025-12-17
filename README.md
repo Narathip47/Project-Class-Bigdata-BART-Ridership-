@@ -33,7 +33,9 @@ Link https://www.kaggle.com/datasets/mrgeislinger/bart-ridership/data
 # Hourly & Weekly Pattern Changes
 
 Before COVID → จำนวนการใช้งานเยอะสุดช่วงเช้าและช่วงเย็น
+
 During COVID → จำนวนการใช้งานที่หายไปอย่างมากเนื่องจากต้อง Work From Home
+
 After COVID → จำนวนการใช้งานกลับมาเยอะขึ้นแต่รูปแบบอาจเปลี่ยนไป
 
 <img width="792" height="325" alt="สกรีนช็อต 2025-12-17 075131" src="https://github.com/user-attachments/assets/50c2f706-fba1-42b1-8d17-d61260ccf853" />
