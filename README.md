@@ -54,6 +54,9 @@ After COVID → จำนวนการใช้งานกลับมาเ�
 <img width="521" height="315" alt="สกรีนช็อต 2025-12-17 075438" src="https://github.com/user-attachments/assets/c36024fd-9f9b-40ba-b6aa-f82cd839ac8e" />
 
 
+# Insight 
+- พบว่าอัตราการใช้งานรถไฟฟ้าเริ่มดรอปลงในปี ต้นเดือนปี2020 ถึงปี2021
+
 
 
 
